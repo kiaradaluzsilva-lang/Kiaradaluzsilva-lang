@@ -2,7 +2,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
 💻 Desenvolvedora Front-End em formação <br>
 ✨ Transformando ideias em interfaces funcionais
-</p>---
+</p>
 
 👩‍💻 Sobre mim
 
@@ -19,7 +19,9 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>📂 Projetos
+</div>
+
+💻 Projetos
 
 🔹 Portfólio Pessoal
 
@@ -27,10 +29,11 @@
 
 🔹 Estudos de HTML, CSS e JavaScript
 
-📫 Contato
+📩 Contato
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/kiara-luz-b83144359?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 LinkedIn
-</a><a href="https://github.com/">
+</a>
+<a href="https://github.com/kiaradaluzsilva-lang">
 GitHub
 </a>
