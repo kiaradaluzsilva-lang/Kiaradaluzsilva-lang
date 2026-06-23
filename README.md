@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Kiara 👋</h1><p align="center">
+<h1>Olá, eu sou Kiara 👋</h1><p>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
 💻 Desenvolvedora Front-End em formação <br>
 ✨ Transformando ideias em interfaces funcionais
