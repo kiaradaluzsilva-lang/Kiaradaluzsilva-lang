@@ -117,7 +117,7 @@ Novo projeto Front-End em desenvolvimento.
 
 ## 📚 Atualmente estudando
 
-<div align="center">
+<div>
 
 ### 🎯 Foco atual
 **JavaScript • Responsividade • Git & GitHub**
