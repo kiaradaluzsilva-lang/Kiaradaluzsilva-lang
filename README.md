@@ -31,7 +31,7 @@ Também possuo conhecimentos em **UI Design e Figma**, o que me permite pensar n
 
 ## 🛠️ Tecnologias e ferramentas
 
-<div align="center">
+<div>
 
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5">
 &nbsp;&nbsp;
@@ -49,7 +49,7 @@ Também possuo conhecimentos em **UI Design e Figma**, o que me permite pensar n
 
 <br>
 
-<div align="center">
+<div>
 
 **HTML5 • CSS3 • JavaScript • Git • GitHub • Figma**
 
