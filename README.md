@@ -117,10 +117,19 @@ Novo projeto Front-End em desenvolvimento.
 
 ## 📚 Atualmente estudando
 
-```javascript
-const kiara = {
-  foco: "Front-End Development",
-  estudando: ["JavaScript", "Responsividade", "Git"],
-  proximosPassos: ["DOM", "APIs", "React"],
-  objetivo: "Desenvolvedora Front-End Júnior"
-};
+<div align="center">
+
+### 🎯 Foco atual
+**JavaScript • Responsividade • Git & GitHub**
+
+<br>
+
+### 🧠 Próximos conhecimentos
+**DOM • Consumo de APIs • React**
+
+<br>
+
+### 🚀 Objetivo
+**Desenvolvimento Front-End Júnior**
+
+</div>
