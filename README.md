@@ -95,7 +95,7 @@ Interface responsiva para uma hamburgueria, desenvolvida para praticar estrutura
 
 **Tecnologias:** HTML • CSS
 
-🔗 [Ver projeto]([LINK_DO_REPOSITORIO](https://github.com/kiaradaluzsilva-lang/B7-burger-2.0))
+🔗 [Ver projeto]((https://github.com/kiaradaluzsilva-lang/B7-burger-2.0))
 
 </td>
 
